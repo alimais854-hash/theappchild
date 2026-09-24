@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="accessibility_desc">System helper service</string>
+    <string name="pairing_title">First-time setup</string>
+    <string name="pairing_hint">Enter the 6-digit code</string>
+    <string name="pairing_ok">Start</string>
+    <string name="pairing_err">Code must be 6 digits</string>
+</resources>
